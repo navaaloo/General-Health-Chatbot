@@ -23,15 +23,6 @@ This app answers general health questions while **blocking potentially dangerous
 - **Blocked by safety filter:** “Is paracetamol safe for children?”  
 
 ---
-
-## **Installation**
-
-1. Clone the repository:
-
-```bash
-git clone <your-repo-url>
-cd health_chatbot
-
 Install dependencies:
 pip install -r requirements.txt
 
@@ -65,3 +56,4 @@ Integrate verified medical sources for general information
 Enhance UI styling with custom CSS for mobile-friendly look
 
 Author: Nawal Shahid
+
